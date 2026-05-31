@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Dungeon Crawl Forks'?></title>
-    <link rel="icon" href="/img/DCF-logo-homepage.gif" type="image/gif">
+    <link rel="icon" href="/img/orb_of_zot.gif" type="image/gif">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
     <link rel="stylesheet" href="/css/cosplay.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
