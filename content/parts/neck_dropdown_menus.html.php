@@ -14,7 +14,7 @@
 			<a href="/cctt/past_cctt_results"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCTT results</a>
 			<a href="/ccft">Crawl Cosplay Forks Tournament (CCFT)</a>
 			<a href="/ccft/about_ccft"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCFT</a>
-			<a href="https://www.dungeoncrawlcentral.org/" target="_blank">Dungeon Crawl Central</a>
+			<a href="https://www.crawlcosplay.org/" target="_blank">Crawl Cosplay</a>
 		</div>
 	</div>
 
