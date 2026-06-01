@@ -22,6 +22,6 @@
 		<button class="dropbtn">Donate!</button>
 		<div class="dropdown-content" style="right:0;">
 			Please donate for the cost of our CCO.CrawlCosplay.org WebTiles server at:<br>
-			<a href="https://patreon.com/rogga" target="_blank"><b style="color:yellow">RoGGa's Patreon</b></a>
+			<a href="https://patreon.com/rogga" target="_blank"><b style="color:yellow">Patreon</b></a>
 		</div>
 	</div>
