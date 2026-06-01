@@ -2,7 +2,7 @@
 
 <h3>Click the botton to determine the closest Dungeon Crawl server from your location:</h3>
 <center><button class="btn btn-success" onclick=" window.open('https://www.DungeonCrawlCentral.org/closest_server.html','_blank')"> <b>Find closest Dungeon Crawl WebTiles server</b> </button></center>
-<br>
+<p></p>
 <h3>Or select a server manually depending on its forks installed:</h3>
 <table>
 <tr><td><details open style="display:inline-block;">
