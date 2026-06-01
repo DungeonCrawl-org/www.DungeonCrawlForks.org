@@ -5,10 +5,9 @@
     	<div class="page_content">
         	<div class="heading">
             		<h1><center><img src="/img/DCF-logo-homepage.gif" width="256" height="256"></center></h1>
-			<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Crawl Cosplay 2.0 community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
+			<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
         	</div>
 		<div class="fineprint" align="right">
-   			To be Moderated: <?php echo app\models\Submission::getNumberOfUnscoredSubmissions() ?>
 			<?php if ($this->request->session('admin')) : ?>
         			| Subs <a href="/admin/submissions/list">Official</a> <a href="/admin/submissions/moderate">Moderate</a> <a href="/admin/submissions/add">New</a>
 	        		| Players <a href="/admin/players/list">List</a> <a href="/admin/players/add">New</a>
