@@ -1,7 +1,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="/js/closest_server.js"></script>
+<script type="text/javascript" src="//dungeoncrawlforks.org/js/closest_server.js"></script>
 
 <h2 style="color:orange">Closest Dungeon Crawl server</h2>
 <p>Select the option to allow this page to determine your location</p>
@@ -11,11 +11,3 @@
                  <ul class="list-unstyled" id="play-list" style="width: 100%;"><li>Loading...</li></ul>
   </div>
 </div>
-
-		<br />
-		<img src="/img/HR-right.png"><br />
-		<br />
-		<footer>Copyleft  |  <a href="https://github.com/DungeonCrawl-org/www.DungeonCrawlCentral.org/issues" target="_blank">Send bug report or feature request</a>
-		<p style="text-align:right;">You are too berserk; please calm down first!</p></footer>
-		</div>
-	</div>
