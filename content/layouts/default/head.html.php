@@ -11,6 +11,22 @@
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0px solid #ccc;
+    font-size: 16px;
+}
+td, th {
+    text-align: left;
+    padding: 2px 4px;
+}
+th {
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+
 #table_for_float_image {
   border-collapse: separate;
   border-spacing: 15px 50px;
