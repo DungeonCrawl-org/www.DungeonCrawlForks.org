@@ -2,19 +2,13 @@
 		<button class="dropbtn">Menu</button>
 		<div class="dropdown-content" style="left:0;">
 			<a href="/">Dungeon Crawl Forks homepage</a>
-			<a href="/cc_streamers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; CC Streamers</a>
-			<a href="/cca">Crawl Cosplay Academy (CCA)</a>
-			<a href="/cca/about_cca"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCA</a>
-			<a href="/ccc">Crawl Cosplay Challenge (CCC)</a>
-			<a href="/ccc/about_ccc"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCC</a>
-			<a href="/ccc/all_ccc_history"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; all CCC challenges</a>
-			<a href="/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT) - LIVE</a>
-			<a href="/cctt">Crawl Cosplay Trunk Tournament (CCTT)</a>
-			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
-			<a href="/cctt/past_cctt_results"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCTT results</a>
-			<a href="/ccft">Crawl Cosplay Forks Tournament (CCFT)</a>
-			<a href="/ccft/about_ccft"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCFT</a>
-			<a href="https://www.crawlcosplay.org/" target="_blank">Crawl Cosplay</a>
+			<a href="https://discord.gg/gMnE5JFcB7" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl community discord server</a>
+			<a href="/online_servers.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Dungeon Crawl server</a>
+			<a href="/download.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download a Dungeon Crawl fork for offline play</a>
+			<a href="/forks.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; View Dungeon Crawl forks details</a>
+			<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl subreddit</a>
+			<a href="https://www.crawlcosplay.org/">Crawl Cosplay (CC) website</a>
+			<a href="https://discord.gg/pW7nqC8Wu3" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Crawl Cosplay 2.0 community discord server</a>
 		</div>
 	</div>
 
