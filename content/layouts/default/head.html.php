@@ -15,7 +15,12 @@
   border-collapse: separate;
   border-spacing: 15px 50px;
 }
-	
+
+.centerTable { 
+    margin: 0px auto; 
+    border: none;
+}
+
 h1	{
 	font-size: 48px;
 	text-align: center;
