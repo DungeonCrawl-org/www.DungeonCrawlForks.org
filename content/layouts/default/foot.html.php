@@ -7,10 +7,10 @@
 		</div>
 	</div>
 </div>
-</div>
 
 <?php echo $this->part('GloamVaultAd'); ?>
 
+</div>
 <div id="page_footer">&nbsp;</div>
 </body>
 </html>
