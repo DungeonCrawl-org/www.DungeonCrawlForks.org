@@ -304,7 +304,7 @@ div.fineprint p {
 /* <div id="page_footer">&nbsp;
 </div> */
  div#page_footer {
-    background-image: url("/img/backgrounds/bg_elf_wall.png");
+    background-image: url("/img/backgrounds/bg_lair_floor.png");
     margin: 0;
     padding: 0;
     height: 32px;
