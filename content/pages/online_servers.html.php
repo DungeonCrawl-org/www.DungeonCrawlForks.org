@@ -1,3 +1,84 @@
+<style>
+
+#dlTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#dlTable td, #dlTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#dlTable tr:nth-child(even){background-color: Dark Gray}
+
+#dltable tr:hover {background-color: #ddd;}
+
+#dlTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: drak gray;
+  color: white;
+}
+
+
+div.score-sidebar-cca {
+    float: right;
+    clear: both;
+    text-align: right;
+    width: 575px;
+    padding: 0 2em 5em;
+}
+	
+.centerTable { 
+    margin: 0px auto; 
+    border: none;
+}
+	
+h1	{
+	font-size: 48px;
+	text-align: center;
+}
+
+.dropbtn {
+  background-color: #7D623C;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #7D623C;
+  min-width: 500px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 12px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #000000;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #7D623C;}
+
+</style>
+
 <h2 style="color:orange"><center>Online Dungeon Crawl WebTiles servers</center></h2>
 
 <h3>Click the botton to determine the closest Dungeon Crawl server from your location:</h3>
