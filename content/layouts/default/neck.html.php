@@ -9,12 +9,12 @@
         	</div>
 		<div class="fineprint" align="right">
 			<?php if ($this->request->session('admin')) : ?>
-        			| Subs <a href="/admin/submissions/list">Official</a> <a href="/admin/submissions/moderate">Moderate</a> <a href="/admin/submissions/add">New</a>
+        			  Subs <a href="/admin/submissions/list">Official</a> <a href="/admin/submissions/moderate">Moderate</a> <a href="/admin/submissions/add">New</a>
 	        		| Players <a href="/admin/players/list">List</a> <a href="/admin/players/add">New</a>
     				| Challenges <a href="/admin/challenges/list">List</a> <a href="/admin/challenges/add">New</a>
 	        		| <a href="/admin/logout">Logout</a>
 			<?php else : ?>
-          			| <a href="/backoffice">Admin</a>
+          			<a href="/backoffice">Admin</a>
 			<?php endif; ?>
 		</div>
         	<img src="/img/HR-right.png"><br />
