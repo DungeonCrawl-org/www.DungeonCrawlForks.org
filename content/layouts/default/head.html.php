@@ -77,10 +77,6 @@ h1	{
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #7D623C;}
 
-</style>
-
-<style>
-	
 	.ad-banner {
 	  text-align: center;
 	  margin: 20px 0;
