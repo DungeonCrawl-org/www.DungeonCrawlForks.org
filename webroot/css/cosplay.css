@@ -1,6 +1,6 @@
 .dropdown-menu, 
 ul.nav li ul {
-    min-width: 250px; /* Adjust the pixel width to your liking */
+    min-width: 350px; /* Adjust the pixel width to your liking */
     width: max-content; /* Optional: Makes it dynamically fit the longest text */
 }
 input[type="text"] {
