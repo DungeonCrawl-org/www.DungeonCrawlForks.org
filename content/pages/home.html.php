@@ -20,14 +20,11 @@
 		   . ' <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">' . _("Dumalacath's CC video") . "</a></p>";
 
 	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo "<p>" . _("Come chat with us on our DCSS Crawl Cosplay 2.0 community")
-	           . ' <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">'
+	echo "<p>" . _("Come chat with us on our Dungeon Crawl Crawl community")
+	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
 		   . _("Discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
-		   . _("with over 225 members!") . "</p>";
+		   . _("with over 300 members!") . "</p>";
 	
-	echo "<h2>" . _("Crawl Cosplay Streamers") . "</h2>";
-	echo "<p>"  . _("See the") . ' <a href="/cc_streamers"><b>' . _("Crawl Cosplay Streamers") . "</b></a>' "  
-		    . _("webpage for info on current and past streamers as well as links to their CC playlists.") . "</p>";
 	echo "<p>" . _("Happy Crawling,") . "</p>";
 	echo "<p>" . _("from RoGGa your host, and the @VIPs members who all help make this site what it is.") . " :-D</p>";
 ?>
