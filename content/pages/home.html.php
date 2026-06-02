@@ -15,10 +15,6 @@
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
 	echo     "<li>" . _("Post to Reddit in ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
 
-	echo "<h2>" . _("Watch a video about the Crawl Cosplay website") . "</h2>";
-	echo "<p>" . _("For indepth details about the Crawl Cosplay website, see:")
-		   . ' <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">' . _("Dumalacath's CC video") . "</a></p>";
-
 	echo "<h2>" . _("Want to chat?") . "</h2>";
 	echo "<p>" . _("Come chat with us on our Dungeon Crawl Crawl community")
 	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
