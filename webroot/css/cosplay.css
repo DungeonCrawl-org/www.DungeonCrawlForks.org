@@ -1,6 +1,6 @@
 .dropdown-menu {
-    min-width: 350px; /* Adjust the pixel width to your liking */
-    width: max-content; /* Optional: Makes it dynamically fit the longest text */
+    min-width: 400px;
+    white-space: nowrap;
 }
 input[type="text"] {
     width: 70%;
