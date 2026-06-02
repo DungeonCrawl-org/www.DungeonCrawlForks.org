@@ -4,8 +4,6 @@
 	$count = count($files);
 	$index = rand(2, ($count-1));
 	$filename = $files[$index];
-	$index2 = rand(2, ($count-1));
-	$filename2 = $files[$index2];
 
 	echo "<h2>" . _("Welcome to DungeonCrawlForks.org!") . "</h2>";
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
@@ -16,41 +14,6 @@
 	echo     '<li><a href="https://www.dungeoncrawlcentral.org/download_forks.html" target="_blank">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
 	echo     "<li>" . _("Post to Reddit in ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
-
-	echo '<h3><a href="/ccc">' . _("Crawl Cosplay Challenges") . "</a> (CCC)</h3>";
-	echo "<ul><li>" . _("The original weekly challenge posted on Reddit since 2019!") . "</li>";
-   	echo     "<li>" . _("Read") . ': <a href="/ccc/about_ccc">' . _("About CCC") . "</a>.</li>";
-   	echo     "<li>" . _("See") . ': <a href="/ccc/all_ccc_history">' . _("all 100+ challenges") . "</a></li></ul>";
-
-	echo '<h3><a href="/ccsdt">' . _("Crawl Cosplay Sudden Death Tournament") . "</a> (CCSDT) - LIVE</h3>";
-	echo "<ul><li>" . _("A DCSS tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!") . "</li>";
-?>
-		 <li>CCSDT#3 for DCSS v0.34 started <b>Friday May 15th, 2026 @ 00:00 UTC</b>.</li>
-		 <li>Each of the 5 weeks start on the <b>Friday @ 00:00 UTC</b>.</li>
-</ul>
-
-<script>
-  // Your UTC time string (must end in 'Z' for UTC)
-  const utcDate = '2026-05-15T00:00:00Z';
-  
-  // Create a Date object; it automatically converts to local time
-  const localDate = new Date(utcDate);
-  
-  // Display it in a readable local format
-  document.getElementById('local-time').innerHTML = localDate.toLocaleString();
-</script>
-
-<?php
-   	echo '<h3><a href="/cctt">' . _("Crawl Cosplay Trunk Tournament") . "</a> (CCTT)</h3>";
-   	echo "<ul><li>" . _("A DCSS tournament lasting about a month with each week highlighting some of the latest Trunk changes.") . "</li>";
-   	echo     "<li>" . _("Read") . ': <a href="/cctt/about_cctt">' . _("About CCTT") . "</a>.</li>";
-   	echo 	 '<li><a href="/cctt/past_cctt_results">' . _("Past CCTT Results") . "</a></li></ul>";
-
-	echo '<h3><a href="/ccft">' . _("Crawl Cosplay Forks Tournament") . "</a> (CCFT) </h3>";
-	echo "<ul><li>" . _("A tournament lasting 4 weeks with each week highlighting a different Dungeon Crawl fork.") . "</li>";
-	echo     "<li>" . _("Read ") . ' <a href="/ccft/about_ccft">' . _("About CCFT") . "</a>.</li></ul>";
-
-	echo '<img src="'.$dir_path."/".$filename2.'" alt="'.$filename2.'"  width="350"  style="float:right">';
 
 	echo "<h2>" . _("Watch a video about the Crawl Cosplay website") . "</h2>";
 	echo "<p>" . _("For indepth details about the Crawl Cosplay website, see:")
