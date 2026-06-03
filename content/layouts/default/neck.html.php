@@ -4,7 +4,7 @@
     	<div class="toplinks"><br></div>
     	<div class="page_content">
         	<div class="heading">
-            		<h1><center><img src="/img/DCF-logo-homepage.gif" width="256" height="256"></center></h1>
+            		<h1><center><img src="/img/banner-left.gif" width="256" height="256"><img src="/img/DCF-logo-homepage.gif" width="256" height="256"></center></h1>
 			<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
         	</div>
 		<div class="fineprint" align="right">
