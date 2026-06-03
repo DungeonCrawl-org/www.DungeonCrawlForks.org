@@ -2,6 +2,7 @@
 
 <h2>Dungeon Crawl: Stone Soup (DCSS): a Dungeon Crawl fork based on <a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a></h2>
 
+<h4>Website: <a href="https://crawl.develz.org/" target="_blank">crawl.develz.org</a>
 <h4>Stats pages:</h4>
 <p>Modern looking stats page for DCSS: <a href="http://dcss-stats.com/" target="_blank">dcss-stats.com</a></p>
 
