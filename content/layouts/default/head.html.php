@@ -7,7 +7,7 @@
     <title><?=$page_title ?? 'Dungeon Crawl Forks'?></title>
     <link rel="icon" href="/img/Rift.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/cosplay.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/default.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
