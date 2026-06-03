@@ -16,9 +16,10 @@
 	echo     "<li>" . _("Post to Reddit in ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
 
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
-	echo "<p>" . _("Before the end of July, the following will likely be happening:");
-	echo "<ul><li>" . _("The webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . '</li>';
-	echo     "<li>"	. _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org") . "</li></ul></p>";
+	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently LIVE");
+	echo     "<li>" . _("Before the end of July, the following will likely be happening:");
+	echo            "<li>" . _("The webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . '</li>';
+	echo     		"<li>"	. _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org") . "</li></li></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
 	echo "<p>" . _("Come chat with us on our Dungeon Crawl Crawl community")
