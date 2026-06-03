@@ -1,4 +1,6 @@
-<?php $this->layout = 'dungeoncrawl'; ?>
+<?php 
+#$this->layout = 'dungeoncrawl'; 
+?>
 
 <h2 style="color:orange">Dungeon Crawl actively developped forks</h2>
 
