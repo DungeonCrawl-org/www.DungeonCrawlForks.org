@@ -24,7 +24,7 @@
 	echo "<p>" . _("Come chat with us on our Dungeon Crawl Crawl community")
 	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
 		   . _("Discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
-		   . _("with over 300 members!") . "</p>";
+		   . _("with over 175 members!") . "</p>";
 	
 	echo "<p>" . _("Happy Crawling,") . "</p>";
 	echo "<p>" . _("from RoGGa your host, and the @VIPs members who all help make this site what it is.") . " :-D</p>";
