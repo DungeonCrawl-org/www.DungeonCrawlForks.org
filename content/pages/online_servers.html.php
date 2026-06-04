@@ -102,5 +102,5 @@
 </details></td>
 </tr>
 </table>
-<p>*CCO isn't tracked by the DCSS bots or stats pages.</p>
+<p>*CCO isn't tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
 		<br />
