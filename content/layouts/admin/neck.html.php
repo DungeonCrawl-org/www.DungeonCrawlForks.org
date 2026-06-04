@@ -4,7 +4,7 @@
     <div class="toplinks"><br></div>
     <div class="page_content">
          <div class="heading">
-              <h1><img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /> Crawl Cosplay /admin/ <img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /></h1>
+              <h1>Dungeon Crawl Forks /admin/</h1>
          </div>
 	 <div class="fineprint" align="right">
    		To be Moderated: <?php echo app\models\Submission::getNumberOfUnscoredSubmissions() ?>
