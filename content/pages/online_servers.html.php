@@ -7,7 +7,7 @@
 <table>
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO*</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> & Console (coming soon)</summary>
+                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO*</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> only</summary>
             <ul><li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
