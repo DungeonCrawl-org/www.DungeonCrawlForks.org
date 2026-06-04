@@ -22,9 +22,9 @@
 	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org") . "</li></ul></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo "<p>" . _("Come chat with us on our Dungeon Crawl Crawl community")
+	echo "<p>" . _("Come chat with us on our")
 	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
-		   . _("Discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
+		   . _("Dungeon Crawl community discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
 		   . _("with over 175 members!") . "</p>";
 	
 	echo "<p>" . _("Happy Crawling,") . "</p>";
