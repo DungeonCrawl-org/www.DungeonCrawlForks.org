@@ -23,9 +23,7 @@
 	echo     "<li>" . _("Post to Reddit in ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
 
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
-	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently ") . '<b>' . _("LIVE") . '</b>' . 
-	     '<dotlottie-wc src="https://lottie.host/8264036f-c526-4820-afa7-7ede2247bd13/Bby6r9p7r8.lottie" style="width: 30px;height: 30px" autoplay loop></dotlottie-wc>';
-
+	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently ") . '<b>' . _("LIVE") . '</b>';
 	echo     "<li>" . _("Before the end of July, the following will likely be happening:") . "</li>";
 	echo     "<ul><li>" . _("In order to reduce costs, the webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . "</li>";
 	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org") . "</li></ul></ul>";
