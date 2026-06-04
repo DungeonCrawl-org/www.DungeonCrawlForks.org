@@ -293,7 +293,7 @@ div.fineprint p {
 }
 .page_back {
     background: #000;
-    background-image: url("/img/backgrounds/bg_trees_border2.gif");
+    background-image: url("/img/backgrounds/bg_trees_border-016colours.png");
     margin: 0;
     padding-top: 32px;
     padding-right: 0px;
@@ -308,7 +308,7 @@ div.fineprint p {
 /* <div id="page_footer">&nbsp;
 </div> */
  div#page_footer {
-    background-image: url("/img/backgrounds/bg_trees_border.gif");
+    background-image: url("bg_trees_border-016colours.png");
     margin: 0;
     padding: 0;
     height: 32px;
