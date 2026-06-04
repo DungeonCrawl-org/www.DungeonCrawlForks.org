@@ -20,7 +20,7 @@
  	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" on a DC server.") . "</li>";
 	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
-	echo     "<li>" . _("Post to Reddit in ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
+	echo     "<li>" . _("Read or Post to subReddit: ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
 
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
 	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently ") . '<b>' . _("LIVE") . '</b> <img src="/img/misc/arrow-flashing-left.gif" width="30">';
