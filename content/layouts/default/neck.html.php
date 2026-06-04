@@ -15,7 +15,7 @@
 	        		| <a href="/admin/logout">Logout</a>
 			<?php else : ?>
 <!--          			<a href="/backoffice">Admin</a> 
-	-->
+	--> <br>
 			<?php endif; ?>
 		</div>
         	<img src="/img/HR-right.png"><br />
