@@ -26,7 +26,7 @@
 	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently ") . '<b>' . _("LIVE") . '</b> <img src="/img/misc/arrow-flashing-left.gif" width="30">';
 	echo     "<li>" . _("Before the end of July, the following will likely be happening:") . "</li>";
 	echo     "<ul><li>" . _("In order to reduce costs, the webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . "</li>";
-	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org") . "</li></ul></ul>";
+	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org).") . "</li></ul></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
 	echo "<p>" . _("Come chat with us on our")
@@ -34,6 +34,5 @@
 		   . _("Dungeon Crawl community discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
 		   . _("with over 175 members!") . "</p>";
 	
-	echo "<p>" . _("Happy Crawling,") . "</p>";
-	echo "<p>" . _("RoGGa and the @VIPs members who all help make this site what it is.") . " :-D</p>";
+	echo "<p>" . _("Happy Crawling!") . "</p>";
 ?>
