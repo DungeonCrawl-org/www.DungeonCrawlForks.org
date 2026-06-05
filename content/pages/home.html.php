@@ -4,14 +4,7 @@
 	$count = count($files);
 	$index = rand(2, ($count-1));
 	$filename = $files[$index];
-?>
 
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js"
-  type="module"
-></script>
-
-<?php
 	echo "<h2>" . _("Welcome to DungeonCrawlForks.org!") . "</h2>";
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
