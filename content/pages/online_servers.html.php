@@ -96,7 +96,7 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl-br.roguelikes.gg/#lobby" target="_blank"><b>CBRG</b></a>:    Brazil - <a href="https://crawl-br.roguelikes.gg/#lobby" target="_blank">WebTiles</a> & Console</summary></summary>
+                <a href="https://crawl-br.roguelikes.gg/#lobby" target="_blank"><b>CBRG</b></a>:    São Paulo, Brazil - <a href="https://crawl-br.roguelikes.gg/#lobby" target="_blank">WebTiles</a> & Console</summary></summary>
             <ul><li>Stone Soup v0.30 to v0.34 and unstable Trunk</li>
             </ul>
 </details></td>
