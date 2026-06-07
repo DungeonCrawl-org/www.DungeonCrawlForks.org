@@ -37,6 +37,6 @@
                 <li><a href="https://underhound.eu:8080" target="_blank">CUE</a>:          Falkenstein, Germany</li>
                 <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:         Gyeonggi, Korea</li>
                 <li><a href="http://lazy-life.ddo.jp:8080/" target="_blank">LLD</a>:       Tokyo, Japan</li>
-                <li><a href="https://crawl-br.roguelikes.gg/" target="_blank">CBRG</a>:    Brazil</li></ul>
+                <li><a href="https://crawl-br.roguelikes.gg/" target="_blank">CBRG</a>:    São Paulo, Brazil</li>
                 <li><a href="https://crawl.roguelikes.gg/" target="_blank">CRG</a>:        Oregon, USA</li></ul>
 </details></p>
