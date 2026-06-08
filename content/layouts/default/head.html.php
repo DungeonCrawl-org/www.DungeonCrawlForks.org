@@ -106,7 +106,7 @@ h1	{
 
     .floating-banner {
         position: fixed;
-        right: 40px;       /* Distance from right edge */
+        right: 32px;       /* Distance from right edge */
         top: 50%;          /* Center vertically */
         transform: translateY(-50%); 
         z-index: 9999;     /* Keeps it on top of other content */
