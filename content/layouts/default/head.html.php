@@ -12,6 +12,13 @@
 
 <style>
 
+img.arena {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Optional: set a specific width */
+}
+	
 table {
     width: 100%;
     border-collapse: collapse;
