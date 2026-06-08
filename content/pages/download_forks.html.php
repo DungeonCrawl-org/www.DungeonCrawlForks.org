@@ -10,8 +10,8 @@
 </ul>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video autoplay loop muted playsinline controls>
+    <video autoplay loop playsinline>
       <source src="/img/arena_animations/arena-aizulVSagnes-01.mp4" type="video/mp4">
-      Your browser does not support the video tag.
+      Your browser does not support the video tag to show an animation of 2 Uniques fighting in the Arena.
     </video>
 </div>
