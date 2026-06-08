@@ -3,7 +3,7 @@
 ?>
 <h2>Download Dungeon Crawl forks</h2>
 
-<div  class="video-container"">
+<div  class="video-container">
     <video autoplay loop playsinline>
       <source src="/img/arena_animations/arena-aizulVSagnes-01.mp4" type="video/mp4">
       Your browser does not support the video tag to show an animation of 2 Uniques fighting in the Arena.
