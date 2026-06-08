@@ -9,6 +9,6 @@
     <li><h3><a href="https://crawl.develz.org/download.htm" target="_blank">Download Stone Soup (DCSS)</a></h4></li>
 </ul>
 <video autoplay loop muted playsinline controls>
-  <source src="/img/arena_animations/arena01.mp4" type="video/mp4">
+  <source src="/img/arena_animations/arena-aizulVSagnes.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
