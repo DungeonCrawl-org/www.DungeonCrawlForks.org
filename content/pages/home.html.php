@@ -30,6 +30,6 @@
 	
 	echo "<p>" . _("Happy Crawling!") . "</p>";
 ?>
-<p><center>Unique Visitors since June 2026</center></p>
+<h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p>
 <br>
