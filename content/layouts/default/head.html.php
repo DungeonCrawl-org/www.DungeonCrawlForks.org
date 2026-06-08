@@ -13,10 +13,10 @@
 <style>
 
 img.arena {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /* Optional: set a specific width */
+	float: right;
+   	margin-left: 15px;
+  	margin-bottom: 10px;
+	width: 50%; /* Optional: set a specific width */
 }
 	
 table {
