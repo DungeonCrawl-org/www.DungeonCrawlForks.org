@@ -12,13 +12,20 @@
 
 <style>
 
-img.arena {
-	float: right;
-   	margin-left: 15px;
-   	margin-right: 150px;
-  	margin-bottom: 10px;
-	width: 25%; /* Optional: set a specific width */
-}
+        .floated-video {
+            float: right;         /* Pulls the video to the right */
+            margin-left: 20px;    /* Adds space between the text and the video */
+            margin-bottom: 10px;  /* Adds space below the video */
+            max-width: 40%;       /* Ensures the video scales responsively */
+            height: auto;
+        }
+
+        /* Prevents subsequent website sections from breaking */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
 	
 table {
     width: 100%;
