@@ -15,8 +15,9 @@
 img.arena {
 	float: right;
    	margin-left: 15px;
+   	margin-right: 150px;
   	margin-bottom: 10px;
-	width: 50%; /* Optional: set a specific width */
+	width: 25%; /* Optional: set a specific width */
 }
 	
 table {
