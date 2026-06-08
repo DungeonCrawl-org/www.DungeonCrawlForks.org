@@ -11,15 +11,20 @@
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
-    .video-container {
-        display: flex;
-        justify-content: flex-end; /* Aligns the internal items to the far right */
-        width: 100%;
-    }
-    video {
-        max-width: 400px;
-        height: auto;
-    }
+        .floated-video {
+            float: right;         /* Pulls the video to the right */
+            margin-left: 20px;    /* Adds space between the text and the video */
+            margin-bottom: 10px;  /* Adds space below the video */
+            max-width: 50%;       /* Ensures the video scales responsively */
+            height: auto;
+        }
+
+        /* Prevents subsequent website sections from breaking */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
 	
 table {
     width: 100%;
