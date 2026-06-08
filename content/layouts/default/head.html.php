@@ -16,7 +16,7 @@
             float: right;         /* Pulls the video to the right */
             margin-left: 20px;    /* Adds space between the text and the video */
             margin-bottom: 10px;  /* Adds space below the video */
-            max-width: 40%;       /* Ensures the video scales responsively */
+            max-width: 67%;       /* Ensures the video scales responsively */
             height: auto;
         }
 
