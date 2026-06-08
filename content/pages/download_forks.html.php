@@ -2,7 +2,7 @@
 #$this->layout = 'dungeoncrawl'; 
 ?>
 <h1>Download Dungeon Crawl forks</h1>
-<videocontrols>
+<video autoplay muted playsinlinecontrols>
   <source src="/img/arena_animations/arena01.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
