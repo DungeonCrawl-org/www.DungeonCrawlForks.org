@@ -2,6 +2,7 @@
 #$this->layout = 'dungeoncrawl'; 
 ?>
 <h1>Download Dungeon Crawl forks</h1>
+<img src="/img/arena_gifs/arena01.gif" style="float:right">
 <ul>
     <li><h4><a href="https://github.com/Bcadren/crawl/releases" target="_blank">Download BCadren</a></h4></li>
     <li><h4><a href="https://github.com/b-crawl/bcrawl/releases" target="_blank">Download BCrawl</a></h4></li>
