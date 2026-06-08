@@ -2,7 +2,10 @@
 #$this->layout = 'dungeoncrawl'; 
 ?>
 <h1>Download Dungeon Crawl forks</h1>
-<img src="/img/arena_gifs/Arena01.gif" class="arena">
+<videocontrols>
+  <source src="/img/arena_animations/arena01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <ul>
     <li><h3><a href="https://github.com/Bcadren/crawl/releases" target="_blank">Download BCadren</a></h3></li>
     <li><h3><a href="https://github.com/b-crawl/bcrawl/releases" target="_blank">Download BCrawl</a></h3></li>
