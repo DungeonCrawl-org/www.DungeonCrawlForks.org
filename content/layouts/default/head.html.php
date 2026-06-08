@@ -11,14 +11,15 @@
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
-
-img.arena {
-	float: right;
-   	margin-left: 15px;
-   	margin-right: 150px;
-  	margin-bottom: 10px;
-	width: 25%; /* Optional: set a specific width */
-}
+    .video-container {
+        display: flex;
+        justify-content: flex-end; /* Aligns the internal items to the far right */
+        width: 100%;
+    }
+    video {
+        max-width: 400px;
+        height: auto;
+    }
 	
 table {
     width: 100%;
