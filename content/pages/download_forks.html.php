@@ -1,6 +1,7 @@
-<?php
-#$this->layout = 'dungeoncrawl'; 
+<?php 
+    $this->layout = 'download_forks'; 
 ?>
+
 <h2>Download Dungeon Crawl forks</h2>
 <div class="clearfix">
     <video class="floated-video" controls autoplay loop playsinline>
