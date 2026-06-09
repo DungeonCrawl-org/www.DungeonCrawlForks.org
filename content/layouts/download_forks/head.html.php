@@ -1,27 +1,42 @@
 <!DOCTYPE html>
+<?php echo $this->part('head_localisation'); ?>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'CCO Webtiles - CCO.CrawlCosplay.org'?></title>
-    <link rel="icon" href="/img/cco.png" type="image/png">
+    <title><?=$page_title ?? 'Dungeon Crawl Forks'?></title>
+    <link rel="icon" href="/img/Rift.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/cco.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/cosplay.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
+
 <style>
 
-div.score-sidebar-cco {
-    float: right;
-    clear: both;
-    text-align: right;
-    width: 575px;
-    padding: 0 2em 5em;
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0px solid #ccc;
+    font-size: 16px;
 }
-	
+td, th {
+    text-align: left;
+    padding: 2px 4px;
+}
+th {
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+
+#table_for_float_image {
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+}
+
 .centerTable { 
     margin: 0px auto; 
     border: none;
 }
-	
+
 h1	{
 	font-size: 48px;
 	text-align: center;
@@ -29,8 +44,8 @@ h1	{
 
 .dropbtn {
   background-color: #7D623C;
-  color: white;
-  padding: 16px;
+  color: black;
+  padding: 12px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -53,7 +68,7 @@ h1	{
 
 .dropdown-content a {
   color: black;
-  padding: 12px 16px;
+  padding: 12px 12px;
   text-decoration: none;
   display: block;
 }
@@ -70,7 +85,7 @@ h1	{
         $meta += [
             'width' => 256,
             'height' => 256,
-            'alt' => "Crawl Cosplay Academy",
+            'alt' => "Crawl Cosplay server",
             'type' => "image/png",
         ];
         if (strpos($meta['filename'], 'https') === 0) {
