@@ -4,10 +4,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'Dungeon Crawl Forks'?></title>
+    <title><?=$page_title ?? 'Dungeon Crawl Online Servers'?></title>
     <link rel="icon" href="/img/Rift.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/default.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/online_servers.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
