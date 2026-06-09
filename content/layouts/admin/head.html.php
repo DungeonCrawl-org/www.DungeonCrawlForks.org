@@ -56,7 +56,7 @@ h1	{
         $meta += [
             'width' => 256,
             'height' => 256,
-            'alt' => "DCSS Cosplay Challenge",
+            'alt' => "Dungeon Crawl Forks",
             'type' => "image/png",
         ];
         if (strpos($meta['filename'], 'https') === 0) {
