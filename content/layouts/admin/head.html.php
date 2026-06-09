@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'Crawl Cosplay /admin/'?></title>
+    <title><?=$page_title ?? 'C/admin/'?></title>
     <link rel="icon" href="/img/hell-tile.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
     <link rel="stylesheet" href="/css/admin.css?v=<?=time()?>">
