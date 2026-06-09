@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="/css/default.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
+	<meta name="default" content="Dungeon Crawl Forks: DCSS, Stoat Soup, BCrawl & BCadren!">
+
 <style>
 
         .floated-video {
