@@ -7,7 +7,7 @@
     <title><?=$page_title ?? 'Download Dungeon Crawl Forks'?></title>
     <link rel="icon" href="/img/Rift.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/download_forks.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/dl_forks.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
