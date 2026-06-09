@@ -4,14 +4,29 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'Free to play Dungeon Crawl Onine Servers'?></title>
+    <title><?=$page_title ?? 'Dungeon Crawl Forks'?></title>
     <link rel="icon" href="/img/Rift.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/online_servers.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/default.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
 
+        .floated-video {
+            float: right;         /* Pulls the video to the right */
+            margin-left: 20px;    /* Adds space between the text and the video */
+            margin-bottom: 10px;  /* Adds space below the video */
+            max-width: 67%;       /* Ensures the video scales responsively */
+            height: auto;
+        }
+
+        /* Prevents subsequent website sections from breaking */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+	
 table {
     width: 100%;
     border-collapse: collapse;
@@ -61,7 +76,8 @@ h1	{
   position: absolute;
   right: 0;
   background-color: #7D623C;
-  min-width: 400px;
+  min-width: 500px;
+  white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -77,6 +93,52 @@ h1	{
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #7D623C;}
 
+	.ad-banner {
+	  text-align: center;
+	  margin: 20px 0;
+	}
+	
+	.ad-banner img {
+	  max-width: 100%; /* Makes it responsive */
+	  height: auto;
+	  border-radius: 8px;
+}
+
+    .floating-banner {
+        position: fixed;
+        right: 32px;       /* Distance from right edge */
+        top: 50%;          /* Center vertically */
+        transform: translateY(-50%); 
+        z-index: 9999;     /* Keeps it on top of other content */
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    .floating-banner img {
+        display: block;
+        width: 160px;      /* Standard wide skyscraper width */
+        height: auto;
+    }
+
+    .close-btn {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        background: #000;
+        color: #fff;
+        border: none;
+        border-radius: 50%;
+        width: 25px;
+        height: 25px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    /* Hide on small screens to avoid covering content */
+    @media (max-width: 1024px) {
+        .floating-banner {
+            display: none;
+        }
+    }
 </style>
 
 <?php
