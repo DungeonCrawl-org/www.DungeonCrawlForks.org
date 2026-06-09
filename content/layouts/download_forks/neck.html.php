@@ -6,7 +6,7 @@
         	<div class="heading">
             		<h1><center><a href="/forks/bcrawl"><img src="/img/banner-left-bcrawl.gif"  height="256"></a>
 								<a href="/forks/stoat_soup"><img src="/img/banner-left-stoatsoup.gif"  height="256"></a>
-								<a href="/"><img src="/img/DCF-logo-homepage.gif" width="256" height="256" title="Image created by our own Red Eye."></a>
+								<a href="/"><img src="/img/DungeonCrawlForks-chatGPTimage.png" height="256" title="Image created by ChatGPT with RoGGa's guidence."></a>
 								<a href="/forks/bcadren"><img src="/img/banner-right-bcadren.gif"  height="256"></a>
 								<a href="/forks/stone_soup"><img src="/img/banner-right-dcss.gif" height="256"></a>
 						</center></h1>
