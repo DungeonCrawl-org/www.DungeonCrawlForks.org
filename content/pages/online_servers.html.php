@@ -1,3 +1,7 @@
+<?php 
+    $this->layout = 'online_servers'; 
+?>
+
 <h2 style="color:orange"><center><img src="/img/stone_soup_icon-48x48.png"> Online Dungeon Crawl servers <img src="/img/stone_soup_icon-48x48.png"></center></h2>
 
 <h3>Click the botton to determine the closest Dungeon Crawl server from your location:</h3>

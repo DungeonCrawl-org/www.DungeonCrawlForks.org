@@ -1,5 +1,5 @@
 <?php 
-#$this->layout = 'dungeoncrawl'; 
+    $this->layout = 'forks_details'; 
 ?>
 
 <h2 style="color:orange">Dungeon Crawl actively developped forks</h2>
