@@ -5,7 +5,7 @@
     	<div class="page_content">
         	<div class="heading">
             		<h1><center><a href="forks_details"><img src="/img/banner-left.gif" width="256" height="256"></a>
-								<a href="/"><img src="/img/DungeonCrawlForks-chatGPTimage.png" width="512" title="Image created by ChatGPT with RoGGa's guidence."></a>
+								<a href="/"><img src="/img/DungeonCrawlForks-chatGPTimage.png" height="256" title="Image created by ChatGPT with RoGGa's guidence."></a>
 								<a href="forks_details"><img src="/img/banner-right.gif" width="256" height="256"></a>
 						</center></h1>
 			<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
