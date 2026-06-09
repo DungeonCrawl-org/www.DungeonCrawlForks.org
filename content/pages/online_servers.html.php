@@ -1,4 +1,4 @@
-<h2 style="color:orange"><center>Online Dungeon Crawl servers</center></h2>
+<h2 style="color:orange"><center><img="/img/stone_soup_icon-48x48.png"> Online Dungeon Crawl servers <img="/img/stone_soup_icon-48x48.png"></center></h2>
 
 <h3>Click the botton to determine the closest Dungeon Crawl server from your location:</h3>
 <center><button class="btn btn-success" onclick=" window.open('closest_server','_blank')"> <b>Find closest Dungeon Crawl server</b> </button></center>
