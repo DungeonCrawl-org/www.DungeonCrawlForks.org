@@ -8,8 +8,8 @@
 	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
-	echo '<h3>' . _("<b>BACKGROUND:</b> Dungeon Crawl (DC) is the game with many forks to choose from.") . "</h3>";
-	echo _("And this is the NEW website with all the details about DC forks currently being developed where you can:");
+	echo '<h3>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h3>";
+	echo _("and this is the NEW website with all the details about DC forks currently being developed where you can:");
  	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" on a DC server.") . "</li>";
 	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
 	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
