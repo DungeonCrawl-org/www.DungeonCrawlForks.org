@@ -10,8 +10,8 @@
 
 	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
 	echo _("and this is the NEW website with all the details about DC forks currently being developed where you can:");
- 	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" for free on a DC server.") . "</li>";
-	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
+ 	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" for free on a DC server located in defferent countries.") . "</li>";
+	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version for free of one of the DC forks.") . "</li>";
 	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
 	echo     "<li>" . _("Read or Post to subReddit: ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
