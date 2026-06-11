@@ -4,6 +4,8 @@
 
 <h1 style="color:orange">Stoat Soup</h1>
 
+<img src="/img/forks/stoatsoup/weasel.png" style="float:right">
+
 <h2>Stoat Soup: a Dungeon Crawl fork based on Stone Soup fork (DCSS) 0.23ish.</h2>
 
 <p>GitHub repo: <a href="https://github.com/damerell/crawl" target="_blank">github.com/damerell/crawl</a></p>
