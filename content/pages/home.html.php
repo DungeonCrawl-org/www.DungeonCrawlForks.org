@@ -9,7 +9,7 @@
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
 	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
-	echo _("and this is the NEW website with all the details about DC forks currently being developed where you can:");
+	echo _("and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:");
  	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" for free on a DC server located in various countries around the world.") . "</li>";
 	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version for free of one of the DC forks.") . "</li>";
 	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
