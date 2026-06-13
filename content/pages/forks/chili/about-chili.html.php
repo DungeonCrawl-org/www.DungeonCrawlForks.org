@@ -9,10 +9,11 @@ with significant content imported from BCrawl and BCadren Crawl</h2>
 
 <img src="/img/forks/dcchili/your-logo-here.jpg" style="float:right" title="Your logo here! Contact us to have your logo featured here.">
 
-<p>Founding members:
-<ul><li>RoGGa (Project Manager)</li>
-    <li>BCadren (Lead Developer)</li>
-    <li>Red Eye (Junior Developer and Graphics Artist)</li>
+<p><b>Founding members</b>:
+<ul><li>RoGGa: Project Manager</li>
+    <li>BCadren: Lead Developer</li>
+    <li>Red Eye: Junior Developer and Graphics Artist</li>
+    <li>BHauth: Dev for BCrawl ported code</li>
 </ul>
 </p>
 
