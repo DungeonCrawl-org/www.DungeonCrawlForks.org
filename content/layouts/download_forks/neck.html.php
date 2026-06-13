@@ -4,7 +4,6 @@
     	<div class="toplinks"><br></div>
     	<div class="page_content">
         	<div class="heading">
-
 	            	<h1><center><a href="/forks/bcrawl"><img src="/img/title_banner/banner-left-bcrawl.jpg"  height="256" title="click to view the details about the BCrawl fork"></a>
 								<a href="/forks/stoat_soup"><img src="/img/title_banner/banner-left-stoatsoup.jpg"  height="256" title="click to view the details about the Stoat Soup fork"></a>
 								<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.png" height="256" title="Image created by ChatGPT with RoGGa's guidence."></a>
