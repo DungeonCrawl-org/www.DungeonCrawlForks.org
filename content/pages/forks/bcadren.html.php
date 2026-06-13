@@ -6,7 +6,7 @@
 
 <h2>BCadrenCrawl: a Dungeon Crawl fork based on Stone Soup fork (DCSS) v0.2x</h2>
 
-<img src="/img/forks/bcadren/bahamut_tiamat.png" style="float:right">
+<img src="/img/forks/bcadren/bahamut_tiamat.gif" height=256 style="float:right">
 
 <p>GitHub repo: <a href="https://github.com/Bcadren/crawl" target="_blank">github.com/Bcadren/crawl</a></p>
 
