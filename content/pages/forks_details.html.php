@@ -8,6 +8,11 @@
 <br>
 <details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="/forks/chili"><b>Dungeon Crawl Chili</b></a></summary>
+            <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada - COMING SOON!</li></ul>
+</details></p>
+<details open style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="/forks/bcadren"><b>BCadren</b></a></summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
                 <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</li></ul>
