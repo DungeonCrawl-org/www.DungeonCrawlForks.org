@@ -14,4 +14,7 @@
 
 <p>View the <a href="/forks/DCChili/aboutDCChili" target="_blank">About DungeonCrawlChili</a> page.</p>
 
-<p>Stats pages for DCChili: Coming in July or Augustmost likely</p>
+<p>Stats pages for DCChili: Coming in July or August most likely</p>
+
+<p>devs and graphics artists wanted! If you are interested in helping out with the development of DCChili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
+   Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> and let RoGGa know!</p>
