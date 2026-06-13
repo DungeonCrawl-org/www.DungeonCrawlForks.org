@@ -11,7 +11,7 @@
 								<a href="/forks/bcadren"><img src="/img/title_banner/banner-right-bcadren.jpg"  height="256" title="click to view the details about the BCadren fork"></a>
 								<a href="/forks/stone_soup"><img src="/img/title_banner/banner-right-dcss.jpg" height="256" title="click to view the details about the Stone Soup (aka DCSS) fork"></a>
 								<a href="/forks/DCChili"><img src="/img/title_banner/coming_soon-DCChile.gif"  height="256" title="click to view the details about the DCChili fork"></a>
-							</center></h1>
+						</center></h1>
 			<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
         	</div>
 		<div class="fineprint" align="right">
