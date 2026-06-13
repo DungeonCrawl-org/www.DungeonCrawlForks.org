@@ -7,7 +7,7 @@
 <h2>DC Chili is a Dungeon Crawl fork based on the Stone Soup (DCSS) fork v0.34</h2>
 ...with significant content imported from BCrawl and BCadren Crawl.<br><br>
 
-<img src="/img/forks/dcchili/your-logo-here.jpg" style="float:right" title="Your logo here! Contact us to have your logo featured here.">
+<img src="/img/forks/dcchili/chili_icon-512x512.png" style="float:right" title="Your logo here! Contact us to have your logo featured here.">
 
 <p>The fork was launched in: <b>June 2026</b></p> with the goal of having a working alpha entity on the CCO Webtiles server in July 2026.
 <p><b>Founding members</b>:
