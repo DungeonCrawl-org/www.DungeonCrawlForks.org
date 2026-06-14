@@ -9,18 +9,45 @@
 <!-- Floating Banner Container -->
 <div id="gloamvault-ad">
     <button id="gloamvault-close" type="button">✕</button>
-    <h4>Website Sponsor</h4>
-	  <a href="https://store.steampowered.com/app/3460840/Gloamvault/?utm_source=dcss_site&utm_medium=referral&utm_campaign=dcss_site" target="_blank">
-        <img src="/img/ads/gloamvault-rightbanner4.gif" alt="GloatVault image" title="This site is partially funded by the game GloamVault. Please visit their entry on Steam by clicking the image above to get them to increase their funding for this website.">
+
+    <a href="https://www.gloamvault.com/" target="_blank">
+        <img
+            src="/img/GloamVaultAd.png"
+            alt="GloamVault"
+            style="display:block; width:100%;"
+        >
     </a>
-	  <h4>a game with DCSS sprites</h4>
 </div>
+
+<style>
+#gloamvault-ad {
+    position: fixed;
+    right: 20px;
+    top: 120px;
+    width: 300px;
+    z-index: 9999;
+    background: #000;
+    border: 2px solid #666;
+    padding: 0;
+}
+
+#gloamvault-close {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 10000;
+    cursor: pointer;
+    background: #111;
+    color: #fff;
+    border: 1px solid #666;
+}
+</style>
 
 <script>
 (function () {
     const STORAGE_KEY = "hideGloamVaultAd";
 
-    const initBanner = () => {
+    function initBanner() {
         const banner = document.getElementById("gloamvault-ad");
         const closeBtn = document.getElementById("gloamvault-close");
 
@@ -28,7 +55,7 @@
             return;
         }
 
-        // Permanently hidden
+        // Hide permanently if previously closed
         if (localStorage.getItem(STORAGE_KEY) === "true") {
             banner.style.display = "none";
             return;
@@ -44,7 +71,7 @@
 
             return false;
         };
-    };
+    }
 
     if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", initBanner);

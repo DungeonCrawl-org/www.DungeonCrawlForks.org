@@ -13,7 +13,11 @@
 	<meta name="default" content="Dungeon Crawl Forks: DCSS, Stoat Soup, BCrawl & BCadren!">
 
 <style>
-    #gloamvault-close {
+#gloamvault-ad {
+    position: fixed;
+}
+
+#gloamvault-close {
     position: absolute;
     top: 4px;
     right: 4px;
