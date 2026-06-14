@@ -19,26 +19,39 @@
 <style>
 #gloamvault-ad {
     position: fixed;
-    right: 20px;
-    top: 120px;
-    width: 300px;
+    right: 10px;
+    top: 180px;
+
+    width: 160px;      /* smaller size */
+    max-width: 160px;
+
     z-index: 9999;
-    background: #000;
-    border: 2px solid #666;
+
+    background: transparent;
+    border: none;
     padding: 0;
+}
+
+#gloamvault-ad img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 #gloamvault-close {
     position: absolute;
-    top: 4px;
-    right: 4px;
-    z-index: 10000;
+    top: 2px;
+    right: 2px;
+
+    width: 18px;
+    height: 18px;
+
+    font-size: 12px;
+    line-height: 12px;
+
     cursor: pointer;
-    background: #111;
-    color: #fff;
-    border: 1px solid #666;
-}
-</style>
+    z-index: 10000;
+}</style>
 
 <script>
 (function () {
