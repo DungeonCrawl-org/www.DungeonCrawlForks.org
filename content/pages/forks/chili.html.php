@@ -16,7 +16,7 @@
 
 <p>View the <a href="/forks/chili/about-chili" target="_blank">About Dungeon Crawl Chili</a> page.</p>
 
-<p>Stats pages for DCChili: Coming in July or August most likely</p>
+<p>Stats pages for DC Chili: Coming in July or August most likely</p>
 
 <h2><b>Devs and graphics artists wanted!</b></h2>
  If you are interested in helping out with the development of DC Chili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
