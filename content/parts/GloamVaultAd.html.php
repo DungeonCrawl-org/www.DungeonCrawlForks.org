@@ -20,7 +20,7 @@
 #gloamvault-ad {
     position: fixed;
 
-    right: 28px;
+    right: 32px;
     top: 50%;
     transform: translateY(-50%);
 
