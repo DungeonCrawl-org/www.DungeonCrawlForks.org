@@ -16,38 +16,32 @@
 	  <h4>a game with DCSS sprites</h4>
 </div>
 
-<script>
-(function () {
-    const STORAGE_KEY = "hideFloatingRightBanner";
+ <script>
+    (function () {
+        const STORAGE_KEY = "hideFloatingRightBanner";
 
-    function hideBanner() {
-        // CHANGE THIS SELECTOR to match your banner
-        const banner = document.querySelector(".floating-right-banner");
+        function hideBanner() {
+            const banner = document.querySelector("#right-banner");
 
-        if (!banner) return;
+            if (!banner) return;
 
-        // If previously hidden, keep it hidden permanently
-        if (localStorage.getItem(STORAGE_KEY) === "true") {
-            banner.remove();
-            return;
-        }
-
-        // Find close button
-        const closeBtn = banner.querySelector(".close-button");
-
-        if (closeBtn) {
-            closeBtn.addEventListener("click", function () {
-                localStorage.setItem(STORAGE_KEY, "true");
+            if (localStorage.getItem(STORAGE_KEY) === "true") {
                 banner.remove();
-            });
+                return;
+            }
+
+            const closeBtn = banner.querySelector(".banner-close");
+
+            if (closeBtn) {
+                closeBtn.addEventListener("click", function () {
+                    localStorage.setItem(STORAGE_KEY, "true");
+                    banner.remove();
+                });
+            }
         }
-    }
 
-    // Run after DOM loads
-    document.addEventListener("DOMContentLoaded", hideBanner);
+        document.addEventListener("DOMContentLoaded", hideBanner);
 
-    // Also retry in case banner is injected later
-    setTimeout(hideBanner, 1000);
-    setTimeout(hideBanner, 3000);
-})();
-</script>
+        setTimeout(hideBanner, 1000);
+    })();
+    </script>
