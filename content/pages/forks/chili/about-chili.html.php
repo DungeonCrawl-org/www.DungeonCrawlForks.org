@@ -18,5 +18,6 @@
 </ul>
 </p>
 
-<p><b>Devs and graphics artists wanted!</b> If you are interested in helping out with the development of DCChili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
+<h2><b>Devs and graphics artists wanted!</b></h2>
+<p>If you are interested in helping out with the development of DCChili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
    Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> and let RoGGa know!</p>
