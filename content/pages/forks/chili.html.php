@@ -6,7 +6,7 @@
 
 <h2>DC Chili is a Dungeon Crawl fork based on the Stone Soup (DCSS) fork v0.35 trunk</h2>
 ...with significant content imported from BCrawl and BCadren Crawl.
-<br>
+<br><br>
 
 <img src="/img/forks/dcchili/your-logo-here.jpg" style="float:right" title="Your logo here! Contact us to have your logo featured here.">
 
