@@ -14,5 +14,23 @@
     </a>
 	<h4>a game with DCSS sprites</h4>
     <!-- Optional Close Button -->
-    <button onclick="this.parentElement.style.display='none'" class="close-btn">&times;</button>
+    <button id="close-banner" onclick="this.parentElement.style.display='none'" class="close-btn">&times;</button>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const banner = document.getElementById("floating-banner");
+    const closeBtn = document.getElementById("close-banner");
+
+    // Permanently hide if user already dismissed it
+    if (localStorage.getItem("hideFloatingBanner") === "true") {
+        banner.style.display = "none";
+    }
+
+    // Save preference when closed
+    closeBtn.addEventListener("click", function () {
+        banner.style.display = "none";
+        localStorage.setItem("hideFloatingBanner", "true");
+    });
+});
+</script>
