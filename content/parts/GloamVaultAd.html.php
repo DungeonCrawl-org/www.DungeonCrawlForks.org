@@ -19,10 +19,12 @@
 <style>
 #gloamvault-ad {
     position: fixed;
-    right: 10px;
-    top: 180px;
 
-    width: 160px;      /* smaller size */
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 160px;
     max-width: 160px;
 
     z-index: 9999;
