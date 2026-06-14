@@ -17,19 +17,37 @@
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-    const banner = document.getElementById("floating-banner");
-    const closeBtn = document.getElementById("close-banner");
+(function () {
+    const STORAGE_KEY = "hideFloatingRightBanner";
 
-    // Permanently hide if user already dismissed it
-    if (localStorage.getItem("hideFloatingBanner") === "true") {
-        banner.style.display = "none";
+    function hideBanner() {
+        // CHANGE THIS SELECTOR to match your banner
+        const banner = document.querySelector(".floating-right-banner");
+
+        if (!banner) return;
+
+        // If previously hidden, keep it hidden permanently
+        if (localStorage.getItem(STORAGE_KEY) === "true") {
+            banner.remove();
+            return;
+        }
+
+        // Find close button
+        const closeBtn = banner.querySelector(".close-button");
+
+        if (closeBtn) {
+            closeBtn.addEventListener("click", function () {
+                localStorage.setItem(STORAGE_KEY, "true");
+                banner.remove();
+            });
+        }
     }
 
-    // Save preference when closed
-    closeBtn.addEventListener("click", function () {
-        banner.style.display = "none";
-        localStorage.setItem("hideFloatingBanner", "true");
-    });
-});
+    // Run after DOM loads
+    document.addEventListener("DOMContentLoaded", hideBanner);
+
+    // Also retry in case banner is injected later
+    setTimeout(hideBanner, 1000);
+    setTimeout(hideBanner, 3000);
+})();
 </script>
