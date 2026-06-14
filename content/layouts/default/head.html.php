@@ -13,6 +13,13 @@
 	<meta name="default" content="Dungeon Crawl Forks: DCSS, Stoat Soup, BCrawl & BCadren!">
 
 <style>
+    #gloamvault-close {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 99999;
+    cursor: pointer;
+}
 
         .floated-video {
             float: right;         /* Pulls the video to the right */
