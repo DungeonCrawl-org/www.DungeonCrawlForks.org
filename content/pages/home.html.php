@@ -19,6 +19,7 @@
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
 	echo "<ul><li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccsdt" target="_blank">' . _("Crawl Cosplay Sudden Death Tournament") . '</a>' . _(" (CCSDT#3) is currently ") . '<b>' . _("LIVE") . '</b>&nbsp<img src="/img/misc/arrow-flashing-left.gif" width="30">';
 	echo     "<li>" . _("A new fork was just launched named: ") . "<a href='/forks/chili'><b>Dungeon Crawl Chili</b></a></li>";
+	echo     "<li>" . _("The CNC 2nd Anniversary Tournament will be held for two weeks starting at 00:00 on the 18th (KST): ") . "<a href='https://refracta.github.io/nemelex.cards/cnc-2nd-anniversary-tournament/details.html' target='_blank'>Website's Details</a></li>";
 	echo     "<li>" . _("Before the end of July, the following will likely be happening:") . "</li>";
 	echo     "<ol><li>" . _("In order to reduce costs, the webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . "</li>";
 	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org).") . "</li></ol>";
@@ -34,7 +35,7 @@
 ?>
 <h2>Other Websites</h2>
 <ul>
-	<li><a href="https://www.crawlcosplay.org/">Crawl Cosplay</a> website</li>
+	<li><a href="https://www.crawlcosplay.org/" target="_blank">Crawl Cosplay</a> website</li>
     <li><a href="https://discord.gg/JYJf7ndQJK" target="_blank">Crawl Cosplay 2.0 community</a> discord server</li>
     <li><a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a>: the orginal game!</li>
 </ul>
