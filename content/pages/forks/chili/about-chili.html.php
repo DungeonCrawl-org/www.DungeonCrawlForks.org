@@ -14,7 +14,6 @@
 <ul><li>RoGGa: Project Manager</li>
     <li>BCadren: Lead Developer</li>
     <li>Red Eye: Junior Developer and Graphics Artist</li>
-    <li>BHauth: Dev for BCrawl ported code</li>
 </ul>
 </p>
 
