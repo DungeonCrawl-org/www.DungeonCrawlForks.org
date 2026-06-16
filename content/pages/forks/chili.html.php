@@ -8,7 +8,7 @@
 
 <img src="/img/forks/dcchili/your-logo-here.jpg" height=256 style="float:right" title="Your logo here! Contact us to have your logo featured here.">
 
-...with significant content imported from BCrawl and BCadren Crawl.
+...with significant content imported from BCadren Crawl.
 <br><br>
 
 <p><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></p>
