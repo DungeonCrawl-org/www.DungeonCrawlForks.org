@@ -15,7 +15,9 @@
 
 <p>Download at: Not available yet</p>
 
-<p>View the <a href="/forks/chili/about-chili" target="_blank">About Dungeon Crawl Chili</a> page.</p>
+<p>Chili Wiki available @ <a href="http://wiki.dungeoncrawlchili.org" target="_blank">wiki.dungeoncrawlchili.org</a>
+
+<p>View the <a href="/forks/chili/about-chili">About Dungeon Crawl Chili</a> page.</p>
 
 <p>Stats pages for DC Chili: Coming in July or August most likely</p>
 
