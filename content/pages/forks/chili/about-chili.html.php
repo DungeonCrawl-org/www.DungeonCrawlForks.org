@@ -11,7 +11,7 @@
 ...with significant content imported from BCadren Crawl.<br><br>
 
 <p>The fork was launched in: <b>June 2026</b></p> with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
-<h3><b>Founding members</b>:</h3>
+<h2>Founding members</h2>
 <ul><li>RoGGa: Project Manager</li>
     <li>BCadren: Lead Developer</li>
     <li>Red Eye: Junior Developer and Graphics Artist</li>
