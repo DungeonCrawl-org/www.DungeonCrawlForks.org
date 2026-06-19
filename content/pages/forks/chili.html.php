@@ -1,5 +1,5 @@
 <?php 
-    $this->layout = 'forks_details'; 
+#    $this->layout = 'forks_details'; 
 ?>
 
 <h1 style="color:orange">Dungeon Crawl Chili</h1>
