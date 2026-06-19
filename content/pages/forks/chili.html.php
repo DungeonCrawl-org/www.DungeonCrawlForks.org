@@ -8,7 +8,6 @@
 
 <a href="https://dungeoncrawlchili.org/" target="_blank"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Your logo here! Contact us to have your logo featured here."></a>
 <p>...with significant content to be imported from BCadren Crawl.</p>
-<br><br>
 
 <p>The fork was launched in: <b>June 2026</b></p> with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
 <h2>Founding members</h2>
