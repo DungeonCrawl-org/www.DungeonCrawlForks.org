@@ -29,6 +29,6 @@
 <p>If you are interested in helping out with the development of DC Chili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
 Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> and let RoGGa know!</p>
 <p>The DC Chili fork is made up of a very small team right now and will need help in recruiting C programmers
-   ...so if you know anyone who wants to be an active dev for a new and exciting crawl fork...please send them my way!</p>
+   ...so if you know anyone who wants to be an active dev for a new and exciting Dungeon Crawl fork...please send them our way!</p>
 <p>We're also looking for a few specialized devs to make big special vaults (in .des files) for the new branch
    above the Dungeon to be called (most likely): the Corrupted Kingdom (K:1-3)</p>
