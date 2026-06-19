@@ -6,7 +6,7 @@
 	$filename = $files[$index];
 
 	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
-	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
+	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contant RoGGa!"></a>';
 
 	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
 	echo _("and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:");
@@ -17,6 +17,8 @@
 	echo     "<li>" . _("Read or Post to subReddit: ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
 
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
+	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
+
 	echo "<ul><li>" . _("A new fork was just launched named: ") . "<a href='/forks/chili'>Dungeon Crawl Chili</a></li>";
 	echo     "<li>" . _("The CNC 2nd Anniversary Tournament will be held for two weeks starting at 00:00 on the 18th (KST): ") . "<a href='https://refracta.github.io/nemelex.cards/cnc-2nd-anniversary-tournament/details.html' target='_blank'>Website's Details</a></li>";
 	echo     "<li>" . _("Before the end of July, the following will likely be happening:") . "</li>";
