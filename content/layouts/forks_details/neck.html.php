@@ -4,7 +4,7 @@
     	<div class="toplinks"><br></div>
     	<div class="page_content">
         	<div class="heading">
-	            	<h1><center><a href="/forks/chili"><img src="/img/title_banner/coming_soon-DCChile.gif"  height="256" title="click to view the details about the DCChili fork"></a>
+	            	<h1><center><a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  height="128" title="click to view the details about the DCChili fork"></a>
 								<a href="/forks/stone_soup"><img src="/img/title_banner/banner-right-dcss.jpg" height="256" title="click to view the details about the Stone Soup (aka DCSS) fork"></a>
 								<a href="/forks/bcadren"><img src="/img/title_banner/banner-right-bcadren.jpg"  height="256" title="click to view the details about the BCadren fork"></a>
 								<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.png" height="256" title="Image created by ChatGPT with RoGGa's guidence."></a>
