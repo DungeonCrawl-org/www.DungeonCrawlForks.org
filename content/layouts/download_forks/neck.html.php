@@ -1,6 +1,5 @@
 <div class="page information">
         <?php echo $this->part('neck_dropdown_menus'); ?>
-
     	<div class="toplinks"><br></div>
     	<div class="page_content">
         	<div class="heading">
