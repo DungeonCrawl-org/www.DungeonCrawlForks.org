@@ -25,7 +25,7 @@
 	echo 	 "<li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccft" target="_blank">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("will likely start in August.") . "</li></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo '<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with RoGGa's guidence." style="float:right">></a>';
+	echo '<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with RoGGa's guidence." style="float:right">';
 #	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
 	echo "<p>" . _("Come chat with us on our")
