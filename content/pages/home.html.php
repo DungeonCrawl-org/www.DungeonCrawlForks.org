@@ -44,5 +44,5 @@
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p>
 <br>
-<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.png" title="Image created by ChatGPT with RoGGa's guidence."></a>
+<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with RoGGa's guidence."></a>
 
