@@ -22,4 +22,4 @@
         		<?php if ($msg = $this->request->session()->get('message')) : ?>
             			<div class="message"><?=$msg?> <br /><br /><a href="/dismiss">--more--</a></div>
         		<?php endif; ?>
-        	</div>99
+        	</div>
