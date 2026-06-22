@@ -25,7 +25,8 @@
 	echo 	 "<li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccft" target="_blank">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("will likely start in August.") . "</li></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
+	echo '<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with RoGGa's guidence." style="float:right">></a>';
+#	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
 	echo "<p>" . _("Come chat with us on our")
 	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
@@ -44,5 +45,4 @@
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p>
 <br>
-<a href="/"><img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with RoGGa's guidence."></a>
 
