@@ -6,7 +6,7 @@
 	$filename = $files[$index];
 
 	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
-	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contant RoGGa!"></a>';
+	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contact RoGGa via discord!"></a>';
 
 	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
 	echo _("and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:");
