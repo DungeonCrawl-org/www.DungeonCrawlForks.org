@@ -6,7 +6,7 @@
 	$filename = $files[$index];
 
 	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
-	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contant RoGGa!"></a>';
+	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contact RoGGa via discord!"></a>';
 
 	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
 	echo _("and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:");
@@ -25,7 +25,8 @@
 	echo 	 "<li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccft" target="_blank">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("will likely start in August.") . "</li></ul>";
 	
 	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
+	echo '<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">';
+#	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="350"  style="float:right">';
 
 	echo "<p>" . _("Come chat with us on our")
 	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
@@ -44,3 +45,4 @@
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p>
 <br>
+
