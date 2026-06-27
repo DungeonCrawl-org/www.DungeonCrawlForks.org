@@ -1,14 +1,13 @@
 {
+    "name": "dungeoncrawl-org/www.dungeoncrawlforks.org",
+    "description": "Flight PHP website for www.dungeoncrawlforks.org",
     "require": {
-        "alkemann/h2l": "^0.55",
-        "erusev/parsedown": "^1.7"
-    },
-    "require-dev": {
-        "alkemann/debug": "^0.4.0"
+        "php": ">=8.3",
+        "flightphp/core": "^3.10"
     },
     "autoload": {
         "psr-4": {
-            "app\\": "app/"
+            "App\\": "app/"
         }
     }
 }
