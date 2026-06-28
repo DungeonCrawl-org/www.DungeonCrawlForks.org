@@ -1,6 +1,7 @@
-<?php 
-    $this->layout = 'download_forks'; 
+<?php   include 'views/header.php';
+        include 'views/neck.php';
 ?>
+
 
 <h2>Download Dungeon Crawl forks</h2>
 <div class="clearfix">
@@ -15,3 +16,4 @@
         <li><h3><a href="https://crawl.develz.org/download.htm" target="_blank">Download Stone Soup (DCSS)</a></h3></li>
     </ul>
 </div>
+<?php require 'views/footer.php'; ?>

@@ -6,7 +6,7 @@
 		
 		</div>
 	</div>
-<?php echo $this->part('GloamVaultAd'); ?>
+	<?php require 'views/parts/GloamVaultAd.php'; ?>
 
 </div>
 </div>

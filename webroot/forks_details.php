@@ -1,5 +1,5 @@
-<?php 
-    $this->layout = 'forks_details'; 
+<?php   include 'views/header.php';
+        include 'views/neck.php';
 ?>
 
 <h2 style="color:orange">Dungeon Crawl actively developped forks</h2>
@@ -45,3 +45,4 @@
                 <li><a href="https://crawl-br.roguelikes.gg/" target="_blank">CBRG</a>:    São Paulo, Brazil</li>
                 <li><a href="https://crawl.roguelikes.gg/" target="_blank">CRG</a>:        Oregon, USA</li></ul>
 </details></p>
+<?php require 'views/footer.php'; ?>

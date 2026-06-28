@@ -1,7 +1,6 @@
-<?php 
-    $this->layout = 'online_servers'; 
+<?php   include 'views/header.php';
+        include 'views/neck.php';
 ?>
-
 <h2 style="color:orange"><center><img src="/img/stone_soup_icon-48x48.png"> Online Dungeon Crawl servers <img src="/img/stone_soup_icon-48x48.png"></center></h2>
 
 <h3>Click the botton to determine the closest Dungeon Crawl server from your location:</h3>
@@ -108,3 +107,4 @@
 </table>
 <p>*CCO isn't tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
 		<br />
+<?php require 'views/footer.php'; ?>
