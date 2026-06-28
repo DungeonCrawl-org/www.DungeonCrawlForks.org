@@ -1,5 +1,9 @@
-<?php 
-    $this->layout = 'forks_details'; 
+<?php
+// Fix path routing for sub-includes inside subdirectories
+set_include_path(__DIR__ . '/../');
+
+include __DIR__ . '/../views/header.php'; 
+include __DIR__ . '/../views/neck.php'; 
 ?>
 
 <h1 style="color:orange">Stone Soup</h1>
@@ -22,3 +26,4 @@
 <p><a href="http://crawl.chaosforge.org/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Wiki</a></p>
 <p><a href="https://www.reddit.com/r/dcss/" target="_blank">Dungeon Crawl Stone Soup (DCSS) subreddit</a></p>
 <p><a href="https://tavern.dcss.io/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Tavern 2.0 dicussion forum</a></p>
+<?php include __DIR__ . '/../views/footer.php'; ?>

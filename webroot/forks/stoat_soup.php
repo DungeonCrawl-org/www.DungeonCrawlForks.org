@@ -1,5 +1,9 @@
-<?php 
-    $this->layout = 'forks_details'; 
+<?php
+// Fix path routing for sub-includes inside subdirectories
+set_include_path(__DIR__ . '/../');
+
+include __DIR__ . '/../views/header.php'; 
+include __DIR__ . '/../views/neck.php'; 
 ?>
 
 <h1 style="color:orange">Stoat Soup</h1>
@@ -17,3 +21,4 @@
 <p>Stats pages for Stoat Soup: <a href="http://montres.org.uk/overview.html" target="_blank">montres.org.uk/overview.html</a></p>
 
 <p>This fork is developped by: damerell, ceb, and hilarita.</p>
+<?php include __DIR__ . '/../views/footer.php'; ?>
