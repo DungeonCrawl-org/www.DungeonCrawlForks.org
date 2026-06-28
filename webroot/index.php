@@ -1,19 +1,4 @@
-<?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-// This works perfectly now that views/ is in the root directory!
-set_include_path(get_include_path() . PATH_SEPARATOR . __DIR__ . '/../');
-
-require __DIR__ . '/../vendor/autoload.php';
-
-Flight::set('flight.log_errors', true);
-Flight::set('flight.handle_errors', false);
-
-// Route the root URL through Flight
-Flight::route('/', function() {
- 
+<?php 
     include 'views/header.php';
     include 'views/neck.php';
 	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
@@ -49,8 +34,3 @@ Flight::route('/', function() {
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p><br>
 <?php require 'views/footer.php'; ?>
-<?php
-});
-
-// Boot the Flight engine to handle URL routing matching
-Flight::start();
