@@ -10,13 +10,13 @@
 	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
 	echo     "<li>" . _("Read or Post to subReddit: ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
+
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
-	echo "<ul><li>" . _("A new fork was just launched named: ") . "<a href='/forks/chili'>Dungeon Crawl Chili</a></li>";
-	echo     "<li>" . _("The CNC 2nd Anniversary Tournament will be held for two weeks starting at 00:00 on the 18th (KST): ") . "<a href='https://refracta.github.io/nemelex.cards/cnc-2nd-anniversary-tournament/details.html' target='_blank'>Website's Details</a></li>";
-	echo     "<li>" . _("Before the end of July, the following will likely be happening:") . "</li>";
-	echo     "<ol><li>" . _("In order to reduce costs, the webtiles server CCO (cco.crawlcosplay.org) will be moved to a European server.") . "</li>";
-	echo     	 "<li>" . _("A new Webtiles server will be setup in Ontario, Canada to be called: DCF (dcf.dungeoncrawlforks.org).") . "</li></ol>";
-	echo 	 "<li>" . _("The ") . '<a href="https://www.crawlcosplay.org/ccft" target="_blank">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("will likely start in August.") . "</li></ul>";
+	echo "<ul><li>" . _("A new Dungeon Crawl fork was just launched named: ") . "<a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a></li>";
+	echo     "<li>" . _("It is available to play online on the new Webtiles server <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada</li>");
+	echo     "<li>" . _("During July, the webtiles server <a href='https://cco.crawlcosplay.org' target='_blank'><b>CCO</b></a> will be moving to a European server in order to reduce monthly costs and will also be hosting Dungeon Crawl Chili.") . "</li>";
+	echo 	 "<li>" . _("The ") . '<a href="/ccft">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("will likely start in August.") . "</li></ul>";
+
 	echo "<h2>" . _("Want to chat?") . "</h2>";
 	echo '<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">';
 	echo "<p>" . _("Come chat with us on our")
