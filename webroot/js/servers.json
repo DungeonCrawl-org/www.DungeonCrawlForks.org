@@ -1,4 +1,5 @@
 [
+    {"name": "dcf.dungeoncrawlforks.org", "url": "https://dcf.dungeoncrawlforks.org/", "admins": ["RoGGa"], "latlongdecimal": [43.6510, -79.3470], "location": "Ontario, Canada", "shortname": "DCF", "watchurl": "https://dcf.dungeoncrawlforks.org/#watch-{name}"},
     {"name": "cco.crawlcosplay.org", "url": "http://cco.crawlcosplay.org/", "admins": ["Quinn"], "latlongdecimal": [43.6510, -79.3470], "location": "Toronto, Canada", "shortname": "CCO", "watchurl": "http://cco.crawlcosplay.org/#watch-{name}"},
     {"name": "crawl.akrasiac.org", "url": "https://crawl.akrasiac.org:8443/", "admins": ["rax", "advil", "gammafunk"], "latlongdecimal": [33.44838, -112.07404], "location": "Arizona, USA", "shortname": "CAO", "dgl-status": "https://crawl.akrasiac.org/cgi-bin/dgl-status/index.html", "watchurl": "https://crawl.akrasiac.org:8443/#watch-{name}"},
     {"name": "cbro.berotato.org", "url": "https://cbro.berotato.org/", "admins": ["ZureaL", "advil", "johnstein"], "latlongdecimal": [39.9612, -82.9988], "location": "Ohio, USA", "shortname": "CBR2", "watchurl": "https://cbro.berotato.org:8080/#watch-{name}"},
