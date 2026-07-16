@@ -11,20 +11,21 @@
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO*</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> only</summary>
-            <ul><li>bcrawl</li>
-                <li>bcadren</li>
-                <li>stoatsoup</li>
+            <ul><li>BCrawl</li>
+                <li>BCadren Crawl</li>
+                <li>Stoat Soup</li>
                 <li>Stone Soup v0.11 to v0.34 and unstable Trunk</li>
             </ul>
 </details></td>
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.nemelex.cards" target="_blank"><b>CNC</b></a>:     Gyeonggi, Korea - <a href="https://crawl.nemelex.cards" target="_blank">WebTiles</a> & Console</summary>
-            <ul><li>bcrawl</li>
-                <li>bcadren</li>
-                <li>stoatsoup</li>
-                <li>Stone Soup v0.30 to v0.34 and unstable Trunk</li>
+                <a href="https://dcf.dungeoncrawlforks.org" target="_blank"><b>DCF</b></a>:     Ontario, Canada - <a href="https://dcf.dungeoncrawlforks.org" target="_blank">WebTiles</a></summary>
+            <ul><li>Dungeon Crawl Chili</li>
+				<li>BCrawl</li>
+                <li>BCadren Crawl</li>
+                <li>Stoat Soup</li>
+                <li>Stone Soup unstable Trunk</li>
             </ul>
 </details></td>
 
@@ -59,16 +60,16 @@
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="https://crawl.xtahua.com" target="_blank"><b>CXC</b></a>:        Paris, France - <a href="https://crawl.xtahua.com" target="_blank">WebTiles</a> & Console</summary>
-            <ul><li>bcrawl</li>
-                <li>bcadren</li>
-                <li>stoatsoup</li>
+            <ul><li>BCrawl</li>
+                <li>BCadren Crawl</li>
+                <li>Stoat Soup</li>
                 <li>Stone Soup v0.25 to v0.34 and unstable Trunk</li></ul>
 </details></td>
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="https://underhound.eu:8080" target="_blank"><b>CUE</b></a>:      Falkenstein, Germany - <a href="https://underhound.eu:8080" target="_blank">Webtiles</a> & Console</summary>
-            <ul><li>bcrawl</li>
+            <ul><li>BCrawl</li>
                 <li>Stone Soup v0.10 to v0.34 and unstable Trunk</li>
             </ul>
 </details></td>
@@ -84,7 +85,7 @@
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="https://crawl.project357.org" target="_blank"><b>CPO</b></a>:    Sydney, Australia - <a href="https://crawl.project357.org" target="_blank">WebTiles ONLY</a></summary>
-            <ul><li>stoatsoup</li>
+            <ul><li>Stoat Soup</li>
                 <li>Stone Soup v0.25 to v0.34 and unstable Trunk</li>
             </ul>
 </details></td>
@@ -104,7 +105,18 @@
             </ul>
 </details></td>
 </tr>
+
+<tr>
+<td><details open style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.nemelex.cards" target="_blank"><b>CNC</b></a>:     Gyeonggi, Korea - <a href="https://crawl.nemelex.cards" target="_blank">WebTiles</a> & Console</summary>
+            <ul><li>BCrawl</li>
+                <li>BCadren Crawl</li>
+                <li>Stoat Soup</li>
+                <li>Stone Soup v0.30 to v0.34 and unstable Trunk</li>
+            </ul>
+</details></td>
 </table>
-<p>*CCO isn't tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
+<p>*CCO and DCF are not tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
 		<br />
 <?php require 'views/footer.php'; ?>
