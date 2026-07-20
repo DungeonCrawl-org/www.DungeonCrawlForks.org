@@ -183,8 +183,8 @@ hr {
 }
 table {
     border-collapse: collapse;
-    border: 0px solid #ccc;
-    font-size: 12px;
+    border: 0px #ccc;
+    font-size: 13px;
 }
 td, th {
     text-align: left;
