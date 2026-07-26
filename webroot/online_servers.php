@@ -10,11 +10,11 @@
 <table>
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO*</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> only</summary>
+                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> only</summary>
             <ul><li>BCrawl</li>
                 <li>BCadren Crawl</li>
                 <li>Stoat Soup</li>
-                <li>Stone Soup v0.11 to v0.34 and unstable Trunk</li>
+                <li>Stone Soup v0.11 to v0.34 and unstable Trunk<*/li>
             </ul>
 </details></td>
 
@@ -25,7 +25,7 @@
 				<li>BCrawl</li>
                 <li>BCadren Crawl</li>
                 <li>Stoat Soup</li>
-                <li>Stone Soup unstable Trunk</li>
+                <li>Stone Soup unstable Trunk*</li>
             </ul>
 </details></td>
 
