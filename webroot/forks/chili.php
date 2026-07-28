@@ -10,7 +10,7 @@ include __DIR__ . '/../views/neck.php';
 
 <h2>DC Chili is a Dungeon Crawl fork based on the Stone Soup (DCSS) fork v0.35 trunk</h2>
 
-<a href="https://dungeoncrawlchili.org/" target="_blank"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Your logo here! Contact us to have your logo featured here."></a>
+<a href="https://dungeoncrawlchili.org/" target="_blank"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg.gif" height=256 style="float:right" title="Your logo here! Contact us to have your logo featured here."></a>
 <p>...with significant content to be imported from BCadren Crawl.</p>
 
 <h4>Website: <a href="https://dungeoncrawlchili.org/" target="_blank">www.DungeonCrawlChili.org</a></h4>
