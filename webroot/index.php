@@ -11,18 +11,15 @@ and this is the <b>NEW</b> website with all the details about DC forks currently
 	<li>Join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community</a> discord server; the only place to discuss all DC forks!</li>
     <li>Read or Post to subReddit: <a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">r/dungeoncrawl</a></li></ul>
 
+<h2>The latest NEWS</h2>
+<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right"</a>
+<ul><li>The <a href="/ccft">Crawl Cosplay Forks Tournament</a> (CCFT#2) starts on Friday July 31st.<img src="/img/misc/arrow-flashing-left.gif" height="16"></li>
+	<li>A new Dungeon Crawl fork was launched in June and it is named: <a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a> (DC Chili)</li>
+	<li>DC Chili is available to play online on the following new Webtiles servers:<br>
+		- <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada<br>
+		- <a href='https://dct.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Tapas (DCT)</b></a> located in Germany.</li>
+	<li>The <a href="www.crawlcosplay.org/cctt" target="_blank">Crawl Cosplay Trunk Tournament</a> (CCTT#4) will likely start at the end of September.</li></ul>
 <?php
-	echo "<h2>" . _("The latest NEWS") . "</h2>";
-	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contact RoGGa via discord!"></a>';
-	echo "<ul><li>" . _("The ") . '<a href="/ccft">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("starts on Friday July 31st.") . '<img src="/img/misc/arrow-flashing-left.gif" height="16"></li>';
-	echo     "<li>" . _("A new Dungeon Crawl fork was launched in June and it is named: ") . "<a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a> (DC Chili)</li>";
-	echo     "<li>" . _("DC Chili is available to play online on the following new Webtiles servers:<br>");
-?>
-	    	          <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada<br>
-					  <a href='https://dct.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Tapas (DCT)</b></a> located in Germany.</li>
-<?php
-	echo 	 "<li>" . _("The ") . '<a href="/cctt">' . _("Crawl Cosplay Trunk Tournament") . '</a> (CCTT#4) ' . _("will likely start at the end of September.") . "</li></ul>";
-
 	echo "<h2>" . _("Want to chat?") . "</h2>";
 	echo '<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">';
 	echo "<p>" . _("Come chat with us on our")
