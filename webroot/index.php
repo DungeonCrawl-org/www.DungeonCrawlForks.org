@@ -19,7 +19,6 @@
 	    	          <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada<br>
 					  <a href='https://dct.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Tapas (DCT)</b></a> located in Germany.</li>
 <?php
-	echo     "<li>" . _("Also during July, the leadership of Crawl Cosplay will be handed over progressively from RoGGa to Colgate, with Draconius offering support to Colgate for external PR things, especially for communications with the DCSS team. FYI, the primary purpose of this leadership transfer is to try to achieve the remaining 2026 ojectives for Crawl Cosplay in regards to interactions with the DCSS team.</li>");
 	echo 	 "<li>" . _("The ") . '<a href="/cctt">' . _("Crawl Cosplay Trunk Tournament") . '</a> (CCTT#4) ' . _("will likely start at the end of September.") . "</li></ul>";
 
 	echo "<h2>" . _("Want to chat?") . "</h2>";
