@@ -10,13 +10,15 @@
 <table>
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> only</summary>
-            <ul><li>BCrawl</li>
+                <a href="https://dct.dungeoncrawlforks.org" target="_blank"><b>DCT</b></a>:     Germany - <a href="https://dct.dungeoncrawlforks.org" target="_blank">WebTiles</a></summary>
+            <ul><li>Dungeon Crawl Chili</li>
+				<li>BCrawl</li>
                 <li>BCadren Crawl</li>
                 <li>Stoat Soup</li>
-                <li>Stone Soup v0.11 to v0.34 and unstable Trunk<*/li>
+                <li>Stone Soup unstable Trunk*</li>
             </ul>
 </details></td>
+
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
@@ -28,7 +30,6 @@
                 <li>Stone Soup unstable Trunk*</li>
             </ul>
 </details></td>
-
 </tr>
 
 <tr><td><details open style="display:inline-block;">
@@ -117,6 +118,6 @@
             </ul>
 </details></td>
 </table>
-<p>*CCO and DCF are not tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
+<p>*DCT and DCF are not tracked by the DCSS bots or the DCSS stats pages. The other forks are tracked by stats pages.</p>
 		<br />
 <?php require 'views/footer.php'; ?>
