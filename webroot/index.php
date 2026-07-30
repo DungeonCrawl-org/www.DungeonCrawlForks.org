@@ -19,21 +19,17 @@ and this is the <b>NEW</b> website with all the details about DC forks currently
 		- <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada<br>
 		- <a href='https://dct.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Tapas (DCT)</b></a> located in Germany.</li>
 	<li>The <a href="www.crawlcosplay.org/cctt" target="_blank">Crawl Cosplay Trunk Tournament</a> (CCTT#4) will likely start at the end of September.</li></ul>
-<?php
-	echo "<h2>" . _("Want to chat?") . "</h2>";
-	echo '<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">';
-	echo "<p>" . _("Come chat with us on our")
-	           . ' <a href="https://discord.gg/gMnE5JFcB7" target="_blank">'
-		   . _("Dungeon Crawl community discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
-		   . _("with over 175 members!") . "</p>";	
-	echo "<p>" . _("Happy Crawling!") . "</p>";
-?>
+
+<h2>Want to chat?</h2>
+	<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">
+<p>Come chat with us on our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with ~200 members!") . "</p>";	
 <h2>Other Websites</h2>
 <ul>
 	<li><a href="https://www.crawlcosplay.org/" target="_blank">Crawl Cosplay</a> website</li>
     <li><a href="https://discord.gg/JYJf7ndQJK" target="_blank">Crawl Cosplay 2.0 community</a> discord server</li>
     <li><a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a>: the orginal game!</li>
 </ul>
+<p>Happy Crawling!</p>
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p><br>
 <?php require 'views/footer.php'; ?>
