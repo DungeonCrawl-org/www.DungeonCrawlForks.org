@@ -1,10 +1,12 @@
 <?php 
     include 'views/header.php';
     include 'views/neck.php';
-	echo "<h2><center><img src='/img/portals/exit_dungeon.png'>" . _(" Welcome to DungeonCrawlForks.org! ") . "<img src='/img/portals/exit_dungeon.png'></center></h2>";
-	echo '<h4>' . _("Dungeon Crawl (DC) is the game with many forks to choose from,") . "</h4>";
-	echo _("and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:");
- 	echo '<ul><li><a href="online_servers">' . _("Play online") . "</a>" . _(" for free on a DC server located in various countries around the world.") . "</li>";
+?>
+<h2><center><img src='/img/portals/exit_dungeon.png'> Welcome to DungeonCrawlForks.org! <img src='/img/portals/exit_dungeon.png'></center></h2>
+<h4>Dungeon Crawl (DC) is the game with many forks to choose from,</h4>
+and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:
+<ul><li><a href="online_servers">Play online</a> for free on a DC server located in various countries around the world.</li>
+<?php
 	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version for free of one of the DC forks.") . "</li>";
 	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
