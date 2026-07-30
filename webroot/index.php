@@ -12,7 +12,6 @@ and this is the <b>NEW</b> website with all the details about DC forks currently
     <li>Read or Post to subReddit: <a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">r/dungeoncrawl</a></li></ul>
 
 <h2>The latest NEWS</h2>
-<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right"</a>
 <ul><li>The <a href="/ccft">Crawl Cosplay Forks Tournament</a> (CCFT#2) starts on Friday July 31st.<img src="/img/misc/arrow-flashing-left.gif" height="16"></li>
 	<li>A new Dungeon Crawl fork was launched in June and it is named: <a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a> (DC Chili)</li>
 	<li>DC Chili is available to play online on the following new Webtiles servers:<br>
@@ -22,7 +21,8 @@ and this is the <b>NEW</b> website with all the details about DC forks currently
 
 <h2>Want to chat?</h2>
 	<img src="/img/title_banner/DungeonCrawlForks-chatGPTimage.gif" title="Image created by ChatGPT with guidance from RoGGa." style="float:right">
-<p>Come chat with us on our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with ~200 members!") . "</p>";	
+<p>Come chat with us on our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with ~200 members!</p>
+
 <h2>Other Websites</h2>
 <ul>
 	<li><a href="https://www.crawlcosplay.org/" target="_blank">Crawl Cosplay</a> website</li>
