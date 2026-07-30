@@ -5,13 +5,13 @@
 <h2><center><img src='/img/portals/exit_dungeon.png'> Welcome to DungeonCrawlForks.org! <img src='/img/portals/exit_dungeon.png'></center></h2>
 <h4>Dungeon Crawl (DC) is the game with many forks to choose from,</h4>
 and this is the <b>NEW</b> website with all the details about DC forks currently being developed where you can:
-<ul><li><a href="online_servers">Play online</a> for free on a DC server located in various countries around the world.</li>
-<?php
-	echo     '<li><a href="download_forks">' . _("Download") . "</a>" . _(" an offline version for free of one of the DC forks.") . "</li>";
-	echo     '<li><a href="forks_details">' . _("View a fork's details") . "</a>.</li>";
-	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server; the only place to discuss all DC forks!") . "</li>";
-	echo     "<li>" . _("Read or Post to subReddit: ") . '<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">' . _("r/dungeoncrawl") . "</a></li></ul>";
+<ul><li><a href="online_servers">Play online</a> for free on a DC Webtiles server located in various countries around the world.</li>
+	<li><a href="download_forks">Download</a> an offline version for free of one of the DC forks.</li>
+	<li><a href="forks_details">View a fork's details</a>.</li>
+	<li>Join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community</a> discord server; the only place to discuss all DC forks!</li>
+    <li>Read or Post to subReddit: <a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">r/dungeoncrawl</a></li></ul>
 
+<?php
 	echo "<h2>" . _("The latest NEWS") . "</h2>";
 	echo '<a href="/forks/chili"><img src="/img/forks/dcchili/DungeonCrawlChiliOrg-YourLogoHere.gif"  width="256" style="float:right" title="Want your logo here? Contact RoGGa via discord!"></a>';
 	echo "<ul><li>" . _("The ") . '<a href="/ccft">' . _("Crawl Cosplay Forks Tournament") . '</a> (CCFT#2) ' . _("starts on Friday July 31st.") . '<img src="/img/misc/arrow-flashing-left.gif" height="16"></li>';
