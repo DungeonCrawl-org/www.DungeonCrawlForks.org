@@ -10,7 +10,7 @@
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="/forks/chili"><b>Dungeon Crawl Chili</b></a> - NEW!</summary>
             <ul><li><a href="http://dcf.dungeoncrawlforks.org" target="_blank">DCF</a>:     Ontario, Canada</li>
-                <li><a href="http://dcf.dungeoncrawlforks.org" target="_blank">DCT</a>:     Germany</li></ul>
+                <li><a href="http://dct.dungeoncrawlforks.org" target="_blank">DCT</a>:     Germany</li></ul>
 </details></p>
 <details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
