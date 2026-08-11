@@ -37,7 +37,7 @@
                 <li><a href="https://crawl.xtahua.com" target="_blank">CXC</a>:             Paris, France</li>
                 <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:          Gyeonggi, Korea</li>
                 <li><a href="https://crawl.project357.org" target="_blank">CPO</a>:         Sydney, Australia</li>
-                <li><a href="https://crawl.montres.org.uk/about.html" target="_blank">CMOU</a>:        UK</li></ul>
+                <li><a href="https://crawl.montres.org.uk/about.html" target="_blank">CMOU</a>:        UK - Console only</li></ul>
 </details></p>
 <details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
