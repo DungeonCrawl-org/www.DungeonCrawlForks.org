@@ -12,11 +12,11 @@ and this is the <b>NEW</b> website with all the details about DC forks currently
     <li>Read or Post to subReddit: <a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank">r/dungeoncrawl</a></li></ul>
 
 <h2>The latest NEWS</h2>
-<ul><li>The <a href="/ccft">Crawl Cosplay Forks Tournament</a> (CCFT#2) starts on Friday July 31st.<img src="/img/misc/arrow-flashing-left.gif" height="16"></li>
-	<li>A new Dungeon Crawl fork was launched in June and it is named: <a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a> (DC Chili)</li>
+<ul><li>A new Dungeon Crawl fork was launched in June and it is named: <a href='https://www.dungeoncrawlforks.org/forks/chili' target='_blank'><b>Dungeon Crawl Chili</b></a> (DC Chili)</li>
 	<li>DC Chili is available to play online on the following new Webtiles servers:<br>
-		- <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada<br>
-		- <a href='https://dct.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Tapas (DCT)</b></a> located in Germany.</li>
+		- <a href='https://dcf.dungeoncrawlforks.org/' target='_blank'><b>Dungeon Crawl Fajita (DCF)</b></a> located in Ontario Canada;<br>
+		- <a href='https://crawl.xtahua.com/' target='_blank'><b>crawl.xtahua.com (CXC)</b></a> located in France;<br>
+		- <a href='https://crawl.project357.org//' target='_blank'><b>crawl.project357.org/ (CPO)</b></a> located in Australia.</li>
 	<li>The <a href="www.crawlcosplay.org/cctt" target="_blank">Crawl Cosplay Trunk Tournament</a> (CCTT#4) will likely start at the end of September.</li></ul>
 
 <h2>Want to chat?</h2>
