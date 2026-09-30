@@ -17,7 +17,7 @@ include __DIR__ . '/../views/neck.php';
 <p>The fork was launched in: <b>June 2026</b></p> ...with the goal of having a working beta version  in time for the CCForksTournament starting at some point in August 2026.
 <p>You can play it out on one of the following webtiles servers:</p>
 <ul><li><a href="https://dcf.DungeonCrawlForks.org/" target="_blank">DCF</a>: Ontario, Canada</li>
-    <li><a href="https://dct.DungeonCrawlForks.org/" target="_blank">DCT</a>: Germany</li>
+    <li><a href="https://crawl.xtahua.com/" target="_blank">CXC</a>: Paris, France</li>
     <li><a href="https://crawl.project357.org" target="_blank">CPO</a>:       Sydney, Australia</li>
 </ul>
 <h4><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></h4>
